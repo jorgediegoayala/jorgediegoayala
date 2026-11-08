@@ -33,13 +33,13 @@ I approach these systems with the same engineering priorities as other business 
 
 | Area | Technologies and focus |
 | --- | --- |
-| Application engineering | C#, .NET, WPF, web APIs |
-| Data and persistence | SQL Server, SQL, stored procedures, NHibernate |
+| Application engineering | C#, Java, Javascript, Typescript.NET, WPF, web APIs |
+| Data and persistence | SQL Server, Postgres, SQL, stored procedures, NHibernate |
 | Architecture and integration | Business systems, API design, domain modeling, application-specific AI services |
 | AI and language models | Ollama, Qwen, RAG, natural-language interfaces |
 | Data analysis and ML studies | Python, NumPy, pandas, Matplotlib, Jupyter |
-| Additional programming and systems studies | C, Java, algorithms, memory management, concurrency |
-| Development workflow | Git, GitHub, GitHub Codespaces |
+| Additional programming and systems studies | C, algorithms, memory management, concurrency |
+| Development workflow | Git, GitHub, GitHub Codespaces, Azure devops |
 
 ## Projects and problem spaces
 
